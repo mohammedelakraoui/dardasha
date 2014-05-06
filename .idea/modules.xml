@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NodeModule/Client/Client.iml" filepath="$PROJECT_DIR$/NodeModule/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NodeModule/NodeModule.iml" filepath="$PROJECT_DIR$/NodeModule/NodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NodeModule/Server/Server.iml" filepath="$PROJECT_DIR$/NodeModule/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tchatche.iml" filepath="$PROJECT_DIR$/Tchatche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NodeModule/css/css.iml" filepath="$PROJECT_DIR$/NodeModule/css/css.iml" />
+    </modules>
+  </component>
+</project>
+
